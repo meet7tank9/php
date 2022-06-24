@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php
-        define("GREETING","welcome to w3schools.com!");
-        echo GREETING;
+        define("GREETIN","welcome to w3schools.com!");
+        echo GREETIN;
 
         
         
